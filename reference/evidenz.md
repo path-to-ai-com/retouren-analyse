@@ -1,4 +1,4 @@
-# Was bei Retouren wirklich wirkt: die Evidenzlage
+# Wirksame Maßnahmen gegen Retouren: Evidenzlage
 
 Gesammelte Ergebnisse aus A/B-Tests, Feldexperimenten und Meta-Analysen zu Retouren im Onlinehandel. Zweck: Empfehlungen an Messungen binden statt an Bauchgefühl, und die kursierenden Zahlen einordnen, die keiner Prüfung standhalten.
 
