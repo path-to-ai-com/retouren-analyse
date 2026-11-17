@@ -7,7 +7,7 @@ Erklärt und mit Beispielen: [path-to-ai.com/skills/retouren-analyse](https://ww
 
 **Dies ist ein ordnerbasierter Claude-Skill.** Er besteht nicht nur aus der `SKILL.md`, sondern braucht `scripts/` und `reference/` daneben, sonst kann er nicht rechnen. Zum Installieren gehört deshalb immer der komplette Ordner ins Skill-Verzeichnis, siehe unten.
 
-## Was er findet
+## Befunde
 
 - **Quoten sauber gerechnet:** Beta-, Gamma- und Bestellquote je Bestell-Kohorte (nicht der übliche Zeitfenster-Fehler), unreife Kohorten markiert
 - **Größen-Läufer:** welcher Artikel fällt klein oder groß aus

@@ -145,7 +145,7 @@ Diese Zahlen dienen der Kalibrierung, nicht der Prognose. Sie stammen aus einem 
 
 **Faustregel:** Realistisch sind einstellige relative Senkungen je Maßnahme, nicht zweistellige.
 
-## Was die Datenlage über Größenberatungs-Software sagt
+## Datenlage zu Größenberatungs-Software
 
 Drei unabhängige Befunde zeigen in dieselbe Richtung, und sie widersprechen dem, was die Anbieter verkaufen:
 

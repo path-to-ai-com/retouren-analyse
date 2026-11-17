@@ -56,7 +56,7 @@ Retourenkosten gesamt 70.793 Euro: 55.761 Euro entgangene Marge, 13.080 Euro Bea
 6. **Mehrgrößen-Bestellungen kommen anderthalbmal so oft zurück** `belegt` · 599 Bestellungen mit zwei Größen desselben Artikels, davon 32,7 Prozent mit Retoure gegen 20,6 Prozent im Schnitt.
 7. **Eine Kundin mit 33 Retourenpositionen** `belegt` · K-10442, 19 Bestellungen, 18 davon mit Retoure. Prüffall für einen Menschen, keine Sanktion.
 
-## Was sonst untergegangen wäre
+## Zusätzliche Befunde
 
 **Die Retourenquote sieht aus, als würde sie sinken. Tut sie nicht.**
 Die abgeschlossenen Bestellmonate liegen im Schnitt bei 15,8 Prozent, der Juni zeigt 7,4. Die 8,4 Punkte Differenz sind fehlende Reife, nicht Erfolg. Hochgerechnet landet der Juni bei 12,7 Prozent.
@@ -146,7 +146,7 @@ Regenjacke Tech, Variante L-Weiss: 2.944 Euro Deckungsbeitrag vor Retouren, 1.52
 **Woran du merkst, dass es wirkt:** Anteil der Retouren ohne Grund, Ziel unter 5 Prozent.
 **Was dabei nicht kaputtgehen darf:** Die Bearbeitungszeit im Wareneingang.
 
-## Was auffällig aussieht, aber in Ordnung ist
+## Unkritische Auffälligkeiten
 
 - **Die Kanäle unterscheiden sich nicht.** Eigener Shop 22,1 Prozent, Amazon 23,4, Zalando 21,3. Die Marktplatz-Listings scheinen zum Shop zu passen.
 - **Die Zahlarten liegen in der Gesamtsicht dicht beieinander.** Vorkasse 20,6 Prozent, PayPal 21,0, Kreditkarte 22,7, Rechnungskauf 24,6. Der Rechnungskauf ist nur bei den nicht abgeholten Sendungen auffällig, nicht bei Retouren allgemein.
